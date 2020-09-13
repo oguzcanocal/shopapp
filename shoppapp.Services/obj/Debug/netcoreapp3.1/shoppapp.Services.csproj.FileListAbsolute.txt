@@ -1,0 +1,4 @@
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shoppapp.Services\obj\Debug\netcoreapp3.1\shoppapp.Services.csprojAssemblyReference.cache
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shoppapp.Services\obj\Debug\netcoreapp3.1\shoppapp.Services.AssemblyInfoInputs.cache
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shoppapp.Services\obj\Debug\netcoreapp3.1\shoppapp.Services.AssemblyInfo.cs
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shoppapp.Services\obj\Debug\netcoreapp3.1\shoppapp.Services.csproj.CoreCompileInputs.cache

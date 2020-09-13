@@ -1,0 +1,8 @@
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shopapp.Common\bin\Debug\netcoreapp3.1\shopapp.Common.deps.json
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shopapp.Common\bin\Debug\netcoreapp3.1\shopapp.Common.dll
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shopapp.Common\bin\Debug\netcoreapp3.1\shopapp.Domain.dll
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shopapp.Common\bin\Debug\netcoreapp3.1\shopapp.Domain.pdb
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shopapp.Common\obj\Debug\netcoreapp3.1\shopapp.Common.csprojAssemblyReference.cache
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shopapp.Common\obj\Debug\netcoreapp3.1\shopapp.Common.AssemblyInfoInputs.cache
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shopapp.Common\obj\Debug\netcoreapp3.1\shopapp.Common.AssemblyInfo.cs
+C:\Users\Oğuzcan\source\repos\ShopApp.v2\shopapp.Common\obj\Debug\netcoreapp3.1\shopapp.Common.csproj.CopyComplete
